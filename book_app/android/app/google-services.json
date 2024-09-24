@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "201330685338",
+    "project_id": "book-app-c859e",
+    "storage_bucket": "book-app-c859e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201330685338:android:4764125157f8caba493623",
+        "android_client_info": {
+          "package_name": "com.vedatakman.bookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201330685338-j1udgbjkivjo56tsa48s3gkb2mj9e0i0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vedatakman.bookapp",
+            "certificate_hash": "688452bed87dff79b767e8b687acfde19868e0a2"
+          }
+        },
+        {
+          "client_id": "201330685338-p03h0encc8fnajv4er6171k0pfbi5fon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0C1uLOffMH1Eqaq3O78_QC8jadllN4ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201330685338-p03h0encc8fnajv4er6171k0pfbi5fon.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201330685338-jil9at8g9d04nl420vabqjc374l4r606.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vedatakman.bookApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
